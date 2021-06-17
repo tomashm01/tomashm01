@@ -6,7 +6,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 ## ⚡ Estadísticas 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomashm01&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashm01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashm01&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Sobre mí
