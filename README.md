@@ -1,12 +1,14 @@
-# Hi there,I'm Tomás 👋
-I'm from Spain, and I'm a student of a Computer Engineering at UCO and a Superior Grade of DAW. 
+# Hello world,soy Tomás 👋
+Soy un joven estudiante de Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
 
-## ⚡ Github Stats
+Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar dichos vídeos. Aprendí muchísimo acerca de edición de vídeo y fotografía y la optimización de mis vídeos gracias al SEO. 
+
+## ⚡ Estadísticas 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomashm01)](https://github.com/tomashm01/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashm01)](https://github.com/tomashm01/github-readme-stats)
 
-## 🚀 About me
+## 🚀 Sobre mí
 
 - Programming languages : <br />
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
@@ -14,18 +16,22 @@ I'm from Spain, and I'm a student of a Computer Engineering at UCO and a Superio
   [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-396E35?style=for-the-badge&logo=c&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+  <br />
+  [![PHP](https://img.shields.io/badge/PHP-A662D3?style=for-the-badge&logo=php&logoColor=white)]()
+  [![Mysql](https://img.shields.io/badge/Mysql-B2A09C?style=for-the-badge&logo=mongodb&logoColor=white)]()
+  [![MongoDB](https://img.shields.io/badge/MongoDB-16E627?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-- OS & IDE & Tools : <br />
-  [![Linux](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+- IDE's, Framework's y herramientas : <br />
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+  [![React](https://img.shields.io/badge/React-2AE6E0?style=for-the-badge&logo=react&logoColor=white)]()
+  [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)]()
+  [![Laravel](https://img.shields.io/badge/Laravel-E94A2A?style=for-the-badge&logo=laravel&logoColor=white)]()
+  <br />
+  
+## 💬 Contáctame
 
-
-## 💬 Contact with me
-
-[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZbjQzNhFmGwxxHTHQVfTLQSvFfTlvrzzFFKKjsKhLHvQCrsKScQQJDhVGGdVrFlDKRHSB)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-hidalgo-083b0a1b1/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomashm01)
 
 <!--
