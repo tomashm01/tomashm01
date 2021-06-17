@@ -38,8 +38,8 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomashm01)
 
 ## 📫 Proyectos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/gestisimal-fx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
 
 <!--
 **tomashm01/tomashm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
