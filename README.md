@@ -12,7 +12,7 @@ I'm from Spain, and I'm a student of a Computer Engineering at UCO and a Superio
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)]()
   [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
-  [![C](https://img.shields.io/badge/C-#396E35?style=for-the-badge&logo=c&logoColor=white)]()
+  [![C](https://img.shields.io/badge/C-396E35?style=for-the-badge&logo=c&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
 - OS & IDE & Tools : <br />
