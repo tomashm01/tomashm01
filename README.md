@@ -1,8 +1,3 @@
-
-
-
-
-
 # Hello world,soy Tomás 👋
 Soy un joven estudiante de Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
 
@@ -38,6 +33,10 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-hidalgo-083b0a1b1/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomashm01)
+
+## 📫 Proyectos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/github-readme-stats)
 
 <!--
 **tomashm01/tomashm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
