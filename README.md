@@ -11,6 +11,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 ## 🚀 Sobre mí
 
 - Programming languages : <br />
+
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)]()
   [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
@@ -22,6 +23,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   [![MongoDB](https://img.shields.io/badge/MongoDB-16E627?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 - IDE's, Framework's y herramientas : <br />
+
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![React](https://img.shields.io/badge/React-2AE6E0?style=for-the-badge&logo=react&logoColor=white)]()
