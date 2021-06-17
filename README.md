@@ -10,7 +10,7 @@ I'm from Spain, and I'm a student of a Computer Engineering at UCO and a Superio
 
 - Programming languages : <br />
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-  [![Java](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=java&logoColor=white)]()
+  [![Java](https://img.shields.io/badge/C%2B%2B-Orange?style=for-the-badge&logo=java&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
