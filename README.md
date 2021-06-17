@@ -1,3 +1,8 @@
+
+
+
+
+
 # Hello world,soy Tomás 👋
 Soy un joven estudiante de Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
 
@@ -5,7 +10,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 
 ## ⚡ Estadísticas 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomashm01)](https://github.com/tomashm01/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomashm01&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashm01)](https://github.com/tomashm01/github-readme-stats)
 
 ## 🚀 Sobre mí
