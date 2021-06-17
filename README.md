@@ -19,7 +19,7 @@ I'm from Spain, and I'm a student of a Computer Engineering at UCO and a Superio
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
-<br>
+
 ### 💬 Contact with me
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZbjQzNhFmGwxxHTHQVfTLQSvFfTlvrzzFFKKjsKhLHvQCrsKScQQJDhVGGdVrFlDKRHSB)
