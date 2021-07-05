@@ -11,7 +11,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 
 ## 🚀 Sobre mí
 
-- Programming languages : <br />
+- Lenguajes de programación : <br />
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)]()
@@ -21,16 +21,16 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   <br />
   [![PHP](https://img.shields.io/badge/PHP-A662D3?style=for-the-badge&logo=php&logoColor=white)]()
   [![Mysql](https://img.shields.io/badge/Mysql-B2A09C?style=for-the-badge&logo=mongodb&logoColor=white)]()
-  [![MongoDB](https://img.shields.io/badge/MongoDB-16E627?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 - IDE's, Framework's y herramientas : <br />
 
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-  [![React](https://img.shields.io/badge/React-2AE6E0?style=for-the-badge&logo=react&logoColor=white)]()
-  [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)]()
-  [![Laravel](https://img.shields.io/badge/Laravel-E94A2A?style=for-the-badge&logo=laravel&logoColor=white)]()
+  [![PyCharm](https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=black)]()
+  [![Eclipse](https://img.shields.io/badge/eclipse-orange?style=for-the-badge&logo=eclipse&logoColor=white)]()
+  [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)]()
   <br />
+  [![MongoDB](https://img.shields.io/badge/MongoDB-16E627?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ## 📫 Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/gestisimal-fx)
