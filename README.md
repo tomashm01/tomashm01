@@ -31,7 +31,6 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)]()
   <br />
   [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)]()
-  [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)]()
   [![Angular](https://img.shields.io/badge/angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)]()
 
 ## 📫 Proyectos
