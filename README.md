@@ -32,6 +32,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   <br />
   [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)]()
   [![Angular](https://img.shields.io/badge/angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)]()
+  [![JSON](https://img.shields.io/badge/json-blue?style=for-the-badge&logo=json&logoColor=black)]()
 
 ## 📫 Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/gestisimal-fx)
