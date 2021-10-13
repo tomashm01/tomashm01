@@ -12,28 +12,29 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 ## 🚀 Sobre mí
 
 - Lenguajes de programación : <br />
-
-  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-  [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)]()
-  [![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   [![C](https://img.shields.io/badge/C-396E35?style=for-the-badge&logo=c&logoColor=white)]()
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   <br />
-  [![PHP](https://img.shields.io/badge/PHP-7401DF?style=for-the-badge&logo=php&logoColor=white)]()
-  [![Mysql](https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)]()
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - IDE's, Framework's y herramientas : <br />
 
-  [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   [![Git](https://img.shields.io/badge/Git-8A4B08?style=for-the-badge&logo=git&logoColor=white)]()
-  [![PyCharm](https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=black)]()
-  [![Eclipse](https://img.shields.io/badge/eclipse-orange?style=for-the-badge&logo=eclipse&logoColor=white)]()
-  [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)]()
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+ ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   <br />
-  [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)]()
-  [![React](https://img.shields.io/badge/react-2ECCFA?style=for-the-badge&logo=react&logoColor=white)]()
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   [![JSON](https://img.shields.io/badge/json-blue?style=for-the-badge&logo=json&logoColor=black)]()
-
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 📫 Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/gestisimal-fx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
