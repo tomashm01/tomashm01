@@ -36,7 +36,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 📫 Proyectos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=gestisimal-fx)](https://github.com/tomashm01/gestisimal-fx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Fruteria-Hidalgo)](https://github.com/tomashm01/Fruteria-Hidalgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
 
 ## 💬 Contáctame
