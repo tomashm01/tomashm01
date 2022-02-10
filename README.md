@@ -37,6 +37,9 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Fruteria-Hidalgo)](https://github.com/tomashm01/Fruteria-Hidalgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Gestor-de-maquinas)](https://github.com/tomashm01/Gestor-de-maquinas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=MasterMind)](https://github.com/tomashm01/MasterMind)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Casa-Rural)](https://github.com/tomashm01/Casa-Rural)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=calculadoraJs)](https://github.com/tomashm01/calculadoraJs)
 
 ## 💬 Contáctame
 
