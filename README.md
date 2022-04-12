@@ -24,15 +24,14 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - IDE's, Framework's y herramientas : <br />
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     <br />
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
    [![Git](https://img.shields.io/badge/Git-8A4B08?style=for-the-badge&logo=git&logoColor=white)]()
   [![JSON](https://img.shields.io/badge/json-blue?style=for-the-badge&logo=json&logoColor=black)]()
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ## 📫 Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Fruteria-Hidalgo)](https://github.com/tomashm01/Fruteria-Hidalgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
@@ -45,6 +44,7 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-hidalgo-083b0a1b1/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomashm01)
+[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomas_hm01)
 <!--
 **tomashm01/tomashm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
