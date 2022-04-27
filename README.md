@@ -25,13 +25,13 @@ Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar di
 - IDE's, Framework's y herramientas : <br />
 
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+ [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    <br />
-   [![Git](https://img.shields.io/badge/Git-8A4B08?style=for-the-badge&logo=git&logoColor=white)]()
-  [![JSON](https://img.shields.io/badge/json-blue?style=for-the-badge&logo=json&logoColor=black)]()
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ <br/>
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ## 📫 Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Fruteria-Hidalgo)](https://github.com/tomashm01/Fruteria-Hidalgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
