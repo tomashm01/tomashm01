@@ -1,44 +1,51 @@
-# Hello world,soy Tomás 👋
+# Hello world, soy Tomás 👋
 Soy un joven estudiante de Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
 
-Todo empezó cuando comenzé a subir vídeos a youtube y comenzé a monetizar dichos vídeos. Aprendí muchísimo acerca de edición de vídeo y fotografía y la optimización de mis vídeos gracias al SEO. 
+## ⚙️ Stack técnico
+
+### Lenguajes de programación
+
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Backend
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![EventStore](https://img.shields.io/badge/EventStore-DB394D?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Habilidades
+
+![TDD](https://img.shields.io/badge/TDD-512BD4?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-red?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-blue?style=for-the-badge&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event%20Sourcing-DB394D?style=for-the-badge&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logoColor=white)
+![Microservicios](https://img.shields.io/badge/Microservicios-39B54A?style=for-the-badge&logoColor=white)
+
+
+## 📫 Proyectos destacados
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=fixtrack)](https://github.com/tomashm01/fixtrack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=UCOEats)](https://github.com/tomashm01/UCOEats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=4enRaya)](https://github.com/tomashm01/4enRaya)
 
 ## ⚡ Estadísticas 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomashm01&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashm01&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🚀 Sobre mí
-
-- Lenguajes de programación : <br />
-
-
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  <br />
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- IDE's, Framework's y herramientas : <br />
-
- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- <br/>
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-## 📫 Proyectos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Fruteria-Hidalgo)](https://github.com/tomashm01/Fruteria-Hidalgo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Gestor-de-maquinas)](https://github.com/tomashm01/Gestor-de-maquinas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=MasterMind)](https://github.com/tomashm01/MasterMind)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Casa-Rural)](https://github.com/tomashm01/Casa-Rural)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=calculadoraJs)](https://github.com/tomashm01/calculadoraJs)
 
 ## 💬 Contáctame
 
