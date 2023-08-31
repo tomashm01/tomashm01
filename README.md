@@ -1,5 +1,5 @@
 # Hello world, soy Tomás 👋
-Soy un joven estudiante de Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
+Soy un joven apasionado por la informática, graduado en Ingeniería Informática en la [Universidad de Córdoba](http://www.uco.es/) en 2024 y de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/) en 2022.
 
 ## ⚙️ Stack técnico
 
